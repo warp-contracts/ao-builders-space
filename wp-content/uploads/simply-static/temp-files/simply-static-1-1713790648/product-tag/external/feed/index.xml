@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>External &#8211; Gamic</title>
+	<atom:link href="https://ao-builders.space/product-tag/external/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ao-builders.space/</link>
+	<description>Metaverse Gaming &#38; Crypto WordPress Theme</description>
+	<lastBuildDate>Fri, 14 Oct 2022 06:11:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://ao-builders.space/wp-content/uploads/2022/08/cropped-favicon-32x32.jpg</url>
+	<title>External &#8211; Gamic</title>
+	<link>https://ao-builders.space/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brand Cap</title>
+		<link>https://ao-builders.space/product/brand-cap/</link>
+					<comments>https://ao-builders.space/product/brand-cap/#respond</comments>
+		
+		<dc:creator><![CDATA[ao]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 10:10:55 +0000</pubDate>
+				<guid isPermaLink="false">http://core/?post_type=product&#038;p=2338</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.
+
+Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.]]></description>
+										<content:encoded><![CDATA[<p>Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum. Stet clitain vidunt ut labore eirmod tempor invidunt magna aliquyam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ao-builders.space/product/brand-cap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gaming Chair</title>
+		<link>https://ao-builders.space/product/gamers-chair/</link>
+					<comments>https://ao-builders.space/product/gamers-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[ao]]></dc:creator>
+		<pubDate>Mon, 11 May 2020 11:08:05 +0000</pubDate>
+				<guid isPermaLink="false">http://core/?post_type=product&#038;p=2473</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.
+
+Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.]]></description>
+										<content:encoded><![CDATA[<p>Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum. Stet clitain vidunt ut labore eirmod tempor invidunt magna aliquyam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ao-builders.space/product/gamers-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
